@@ -1,7 +1,7 @@
 {
   "name": "Planner",
   "short_name": "Planner",
-  "start_url": "./planner.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
